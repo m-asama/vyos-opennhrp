@@ -4,3 +4,9 @@ opennhrpctl
 *.d
 *.cmd
 *~
+/debian/.debhelper/
+/debian/changelog.*
+/debian/debhelper-build-stamp
+/debian/files
+/debian/vyos-opennhrp.substvars
+/debian/vyos-opennhrp/

@@ -1,5 +1,5 @@
 Source: vyos-opennhrp
-Section: unknown
+Section: contrib/net
 Priority: extra
 Maintainer: Mark Bryars <debian@darkskiez.co.uk>
 Build-Depends: debhelper (>= 8.0.0), libc-ares-dev, pkg-config
